@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "abdallah",
+      "email": "abdallah@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "aaa",
+      "email": "aaa@gmail.com",
+      "password": "aaaaaa",
+      "id": 2
+    },
+    {
+      "name": "Abdallah",
+      "email": "abdallmo565@gmail.com",
+      "password": "19712001",
+      "id": 3
+    },
+    {
+      "name": "Abdallah",
+      "email": "abdallmo565@gmail.com",
+      "password": "19712001",
+      "id": 3
+    },
+    {
+      "name": "bdallah mohamed",
+      "email": "abdllmo565@gmail.com",
+      "password": "19712001",
+      "id": 4
+    },
+    {
+      "name": "abdallah mohamed",
+      "email": "abdllmo565@gmail.com",
+      "password": "Aa89712001",
+      "id": 5
+    },
+    {
+      "name": "amr",
+      "email": "amr@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "beaa",
+      "email": "braaa@gmail.com",
+      "password": "555555",
+      "id": 7
+    }
+  ],
+  "Donors":[
+    {
+      "name":"Abdallah mohamed",
+      "email":"abdallmo565@gmail.com",
+      "condition":"Donor",
+      "phone":"01156859700",
+      "date":"16/12/2023",
+      "city":"cairo",
+      "last_donat":"month 10",
+      "blood_type":"A+",
+      "id":1
+    },
+    {
+      "name":"Abdallah mohamed",
+      "email":"ad@gmail.com",
+      "condition":"Beneficiary",
+      "phone":"01156859700",
+      "date":"16/12/2023",
+      "city":"cairo",
+      "last_donat":"month 10",
+      "blood_type":"A-",
+      "id":2
+    }
+    
+  ]
+
+
+}

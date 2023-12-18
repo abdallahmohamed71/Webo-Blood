@@ -1,0 +1,27 @@
+#contcatheader{
+    width: 100%;
+    height: 8vh;
+background-color: red;
+color: white;
+
+.contcatheader{
+    padding: 1rem 6rem;
+    .textHeader{
+        display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+        h2{
+            font-size: 1.5rem;
+            font-weight: 650;
+            span{
+                font-size: 1.2rem;
+                font-weight: 200;
+            }
+        }
+    }
+}
+
+}
